@@ -7,11 +7,13 @@ Praktikum running modul pada mata kuliah sistem operasi adalah kegiatan menjalan
 
 ## Guided
 
-### 01 Oracle VM Virtualbox adalah Aplikasi yang bisa membuat komputer di dalam komputer. Dengan aplikasi ini dapat menjalankan sistem operasi lain contohnya seperti Linux dan Windows versi lama di dalam leptop tanpa harus menghapus data 
+### 01 
+Oracle VM Virtualbox adalah Aplikasi yang bisa membuat komputer di dalam komputer. Dengan aplikasi ini dapat menjalankan sistem operasi lain contohnya seperti Linux dan Windows versi lama di dalam leptop tanpa harus menghapus data 
 
 <img src="images/Foto1.png" alt="Oracle VM Virtualbox">
 
-### 02 Ubuntu adalah salah satu versi Linux yang populer karena tampilannya ramah pengguna dan gak bikin bingung pemula. Untuk kegunaan ubuntu bisa untuk belajar codingan atau server web.
+### 02 
+Ubuntu adalah salah satu versi Linux yang populer karena tampilannya ramah pengguna dan gak bikin bingung pemula. Untuk kegunaan ubuntu bisa untuk belajar codingan atau server web.
 
 <img src="images/Foto2.png" alt="Ubuntu">
 
